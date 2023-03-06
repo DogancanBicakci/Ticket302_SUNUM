@@ -8,6 +8,6 @@ Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığ�
 -->Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 -->Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 -->Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
--->Authorize işlemleri için JWT kullanıldı.
+-->Authorize işlemleri için JWT kullanıldı. 
 
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimlerini aşağıda görebilirsiniz
