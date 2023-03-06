@@ -10,4 +10,5 @@ Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığ�
 -->Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
 -->Authorize işlemleri için JWT kullanıldı. 
 
+
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimlerini aşağıda görebilirsiniz
